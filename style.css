@@ -10,8 +10,8 @@ html,body{
    padding: 0;
    overflow-x: hidden;
 }
-h2{
-   text-align: right;
+h4{
+   text-align: center;
 }
 .container{
    padding: 30px;
